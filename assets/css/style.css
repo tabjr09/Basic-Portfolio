@@ -84,6 +84,7 @@ footer{
     width: 270px;
     height: 200px;
     margin-left: 20px;
+    border: 2px solid #cccccc;
 }
 
 .links{
